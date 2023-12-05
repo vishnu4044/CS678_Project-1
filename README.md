@@ -23,20 +23,20 @@ Akhil Kumar Reddy,
  
 5) Install Prerequisites:
 
-pip install numpy<br>
-pip install torch<br>
-pip install transformers<br>
-pip install pandas<br>
-pip install scikit-learn<br>
-pip install tensorboard<br>
-pip install sentencepiece<br>
+   pip install numpy<br>
+   pip install torch<br>
+   pip install transformers<br>
+   pip install pandas<br>
+   pip install scikit-learn<br>
+   pip install tensorboard<br>
+   pip install sentencepiece<br>
 
 6) Execute IPYNB Files:
 
 Open and execute the IPYNB files 
 
 
-   
+
 
 
 
