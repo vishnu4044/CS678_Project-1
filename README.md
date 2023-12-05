@@ -12,7 +12,7 @@ Akhil Kumar Reddy,
 
 1) Download the Project:  Obtain the ZIP file containing the entire project from the GitHub Repository.
 
-2) Download Saved model from this link: https://drive.google.com/drive/folders/1iJrdY-FN_ZcK76jfm55vBGHkZpk33WzE?usp=sharing
+2) Download Saved model from this link: https://drive.google.com/drive/folders/1PA-lgI2YSO2QVrI98xwt8t3BgHe54WFw?usp=sharing
   Note: place all the downloaded saved models folder in MNT folder.
 
 4) Open Project in VS Code: Unzip the downloaded file and open the project folder in Visual Studio Code.
