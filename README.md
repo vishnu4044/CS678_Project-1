@@ -37,8 +37,6 @@ Open and execute the IPYNB files
 
 
 
-
-
 ## File Instructions :
 
 ### 1)easy mix.ipynb
@@ -47,8 +45,5 @@ Open and execute the IPYNB files
 ### 2) entail.ipynb
        Task: Entailment technique on the HX HateXplain dataset.
 
-entail.ipynb has entailment technique on both HX HateXplain dataset, by changing few code bits <br />
-lang = 'hx' #(can be 'hx' or 'latent' for 2 datasets)<br />
-model_choice =8 #(0-10 for different models)<br />
-We can get total of 10 models trained for 2 datasets.<br />
+### 3) 
 
