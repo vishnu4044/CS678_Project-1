@@ -65,7 +65,7 @@ Open and execute the IPYNB files
          This evaluation helps understand how the model's performance is affected when the data is subjected to these different types of noise.
 
 ### 4) Multilingual. ipynb 
-         Task :  this notebook aims to evaluate pre-trained models on various languages and datasets.
+         Task :  this notebook aims to evaluate trained models on various languages and datasets.
 
          Pre-Trained Models and Languages:
 
