@@ -44,13 +44,8 @@ Open and execute the IPYNB files
 ### 1)easy mix.ipynb
       Task: Data augmentation using the Easy Mixup technique on the HX (HateXplain) and Latenthate dataset.
   
-
-
-easymix.ipynb has the data augmentation with easy mixup augmentation technique on HX HateXplain dataset, By changing few code bits <br />
-lang = 'hx' #(can be 'hx' or 'latent' for 2 datasets)
-model_choice =8 #(0-10 for different models)
-We can train both datasets on easy mixup with different models.
-
+### 2) entail.ipynb
+       Task: Entailment technique on the HX HateXplain dataset.
 
 entail.ipynb has entailment technique on both HX HateXplain dataset, by changing few code bits <br />
 lang = 'hx' #(can be 'hx' or 'latent' for 2 datasets)<br />
