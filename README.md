@@ -8,19 +8,20 @@ Akhil Kumar Reddy,
 
 
 # Project Setup Instructions
-## Execution Steps:
-### Download the Project: Obtain the ZIP file containing the entire project from the Github Repository.
+ Execution Steps:
 
-### Open Project in VS Code: Unzip the downloaded file and open the project folder in Visual Studio Code.
+1) Download the Project:  Obtain the ZIP file containing the entire project from the Github Repository.
 
-### Set Up Virtual Environment: Use Conda to create a virtual environment for this project.
+2) Open Project in VS Code: Unzip the downloaded file and open the project folder in Visual Studio Code.
 
- #### Run this command in the terminal :
- ##### conda create --name your_environment_name python=3.8
- ##### conda activate your_environment_name
+3) Set Up Virtual Environment: Use Conda to create a virtual environment for this project.
+
+4) Run this command in the terminal :
+ conda create --name your_environment_name python=3.8
+ conda activate your_environment_name
 
  
-### Install Prerequisites:
+5) Install Prerequisites:
 
 pip install numpy
 pip install torch
@@ -30,7 +31,7 @@ pip install scikit-learn
 pip install tensorboard
 pip install sentencepiece
 
-### Execute IPYNB Files:
+6) Execute IPYNB Files:
 
 Open and execute the IPYNB files 
 
