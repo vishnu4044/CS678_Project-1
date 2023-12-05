@@ -39,6 +39,13 @@ Open and execute the IPYNB files
 
 
 
+## File Instructions :
+
+### 1)easy mix.ipynb
+      Task: Data augmentation using the Easy Mixup technique on the HX HateXplain dataset.
+      Customizable Parameters:
+      lang: Indicates the dataset to be used ('hx' or 'latent').
+      model_choice: Determines the choice of model (0-10) for different configurations.
 
 
 
