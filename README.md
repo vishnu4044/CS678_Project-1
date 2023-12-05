@@ -64,7 +64,25 @@ Open and execute the IPYNB files
          Note: For each noise technique listed above, the notebook will access the model and calculate the accuracy after applying that specific noise to the HX dataset.
          This evaluation helps understand how the model's performance is affected when the data is subjected to these different types of noise.
 
-         
+### 4) Multilingual. ipynb 
+         Task :  this notebook aims to evaluate pre-trained models on various languages and datasets.
+
+         Pre-Trained Models and Languages:
+
+         Models Used:
+             all-language-bert-base-multilingual
+             all_language_xlm-roberta-base
+             all_language_twitter-xlm-roberta-base
+             all_language_twitter-xlm-roberta-base-sentiment
+        Languages Tested:
+              Japanese (ja)
+              Italian (it)
+              Romanian (ro)
+              Russian (RU)
+
+          Results Output:
+            Classification Report: Precision, Recall, F1-Score, Support for each model and each language.
+            Error Analysis: Displays 5 misclassified samples for each language.
          
 
         
