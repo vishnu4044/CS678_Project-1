@@ -45,5 +45,28 @@ Open and execute the IPYNB files
 ### 2) entail.ipynb
        Task: Entailment technique on the HX HateXplain dataset.
 
-### 3) 
+### 3) HX- Robust.ipynb && Latent Robust.ipynb 
+
+        Task: Evaluate the model's robustness by simulating different types of perturbations in the data and check how well the model performs under noisy conditions.
+
+        #### Techniques to Add Noise
+
+         Synonym Replacement: Replaces words with their synonyms while maintaining sentence structure.
+         
+         Character Swap: Swaps characters within words to introduce typo errors or misspellings. 
+         
+         Letter Concatenation: Concatenates adjacent letters within words to create new non-dictionary words.
+         
+         Random Jumbling of Words: Randomly shuffles or jumbles the order of words in sentences.
+         
+         Word Dropped:  Randomly removes or drops certain words from sentences.
+
+         Note: For each noise technique listed above, the notebook will access the model and calculate the accuracy after applying that specific noise to the HX dataset.
+         This evaluation helps understand how the model's performance is affected when the data is subjected to these different types of noise.
+
+         
+         
+
+        
+
 
