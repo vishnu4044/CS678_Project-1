@@ -9,18 +9,15 @@ Akhil Kumar Reddy,
 
 # Project Setup Instructions
 ## Execution Steps:
-### Download the Project:
-Obtain the ZIP file containing the entire project from the Github Repository.
+### Download the Project: Obtain the ZIP file containing the entire project from the Github Repository.
 
-### Open Project in VS Code:
-Unzip the downloaded file and open the project folder in Visual Studio Code.
+### Open Project in VS Code: Unzip the downloaded file and open the project folder in Visual Studio Code.
 
-### Set Up Virtual Environment:
- Use Conda to create a virtual environment for this project.
+### Set Up Virtual Environment: Use Conda to create a virtual environment for this project.
 
- Run this command in the terminal :
- conda create --name your_environment_name python=3.8
- conda activate your_environment_name
+ #### Run this command in the terminal :
+ ##### conda create --name your_environment_name python=3.8
+ ##### conda activate your_environment_name
 
  
 ### Install Prerequisites:
