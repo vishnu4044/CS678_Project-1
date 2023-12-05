@@ -43,7 +43,7 @@ Open and execute the IPYNB files
       Task: Data augmentation using the Easy Mixup technique on the HX (HateXplain) and Latenthate dataset.
   
 ### 2) entail.ipynb
-       Task: Entailment technique on the HX HateXplain dataset.
+       Task: Entailment technique on the HX HateXplain and Latent hate dataset.
 
 ### 3) HX- Robust.ipynb && Latent Robust.ipynb 
 
