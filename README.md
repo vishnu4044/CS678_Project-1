@@ -10,18 +10,21 @@ Akhil Kumar Reddy,
 # Project Setup Instructions
  Execution Steps:
 
-1) Download the Project:  Obtain the ZIP file containing the entire project from the Github Repository.
+1) Download the Project:  Obtain the ZIP file containing the entire project from the GitHub Repository.
 
-2) Open Project in VS Code: Unzip the downloaded file and open the project folder in Visual Studio Code.
+2) Download Saved model from this link: https://drive.google.com/drive/folders/1iJrdY-FN_ZcK76jfm55vBGHkZpk33WzE?usp=sharing
+  Note: place all the downloaded saved models folder in MNT folder.
 
-3) Set Up Virtual Environment: Use Conda to create a virtual environment for this project.
+4) Open Project in VS Code: Unzip the downloaded file and open the project folder in Visual Studio Code.
 
-4) Run this command in the terminal :
+5) Set Up Virtual Environment: Use Conda to create a virtual environment for this project.
+
+6) Run this command in the terminal :
  conda create --name your_environment_name python=3.8
  conda activate your_environment_name
 
  
-5) Install Prerequisites:
+7) Install Prerequisites:
 
    pip install numpy<br>
    pip install torch<br>
@@ -31,7 +34,7 @@ Akhil Kumar Reddy,
    pip install tensorboard<br>
    pip install sentencepiece<br>
 
-6) Execute IPYNB Files:
+8) Execute IPYNB Files:
 
 Open and execute the IPYNB files 
 
