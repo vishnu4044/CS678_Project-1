@@ -1,21 +1,21 @@
 # CS678_Project-1
-Group project for CS678
+# Group project for CS678
 
-Contributors:
-Vishnu Sai Bhonsley 
-Sreedath Somesetty
-Akhil Kumar Reddy
+## Contributors:
+Vishnu Sai Bhonsley, 
+Sreedath Somesetty, 
+Akhil Kumar Reddy, 
 
 
 # Project Setup Instructions
 ## Execution Steps:
-# Download the Project:
+### Download the Project:
 Obtain the ZIP file containing the entire project from the Github Repository.
 
-# Open Project in VS Code:
+### Open Project in VS Code:
 Unzip the downloaded file and open the project folder in Visual Studio Code.
 
-# Set Up Virtual Environment:
+### Set Up Virtual Environment:
  Use Conda to create a virtual environment for this project.
 
  Run this command in the terminal :
@@ -23,7 +23,7 @@ Unzip the downloaded file and open the project folder in Visual Studio Code.
  conda activate your_environment_name
 
  
-# Install Prerequisites:
+### Install Prerequisites:
 
 pip install numpy
 pip install torch
@@ -33,7 +33,7 @@ pip install scikit-learn
 pip install tensorboard
 pip install sentencepiece
 
-# Execute IPYNB Files:
+### Execute IPYNB Files:
 
 Open and execute the IPYNB files 
 
