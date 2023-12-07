@@ -59,7 +59,7 @@ Open and execute the IPYNB files
           Task: In this notebook Back translation is used to augment the data and generate sentences with same semantic meaning, thus the same labels are used. It is used for both HX and LH. RoBERTa-twitter-Sentiment model is trained using data augmented with both the augmentation techniques specified—accuracy: 71% which is 1% more than the accuracy achieved by the authors. 
           
 
-### 3) HX- Robust.ipynb && Latent Robust.ipynb 
+### 4) HX- Robust.ipynb && Latent Robust.ipynb 
 
         Task: Evaluate the model's robustness by simulating different types of perturbations in the data and check how well the model performs under noisy conditions.
 
@@ -78,7 +78,7 @@ Open and execute the IPYNB files
          Note: For each noise technique listed above, the notebook will access the model and calculate the accuracy after applying that specific noise to the HX dataset.
          This evaluation helps understand how the model's performance is affected when the data is subjected to these different types of noise.
 
-### 4) Multilingual. ipynb 
+### 5) Multilingual. ipynb 
          Task :  this notebook aims to evaluate trained models on various languages and datasets.
 
          Pre-Trained Models and Languages:
