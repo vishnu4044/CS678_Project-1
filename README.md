@@ -44,6 +44,11 @@ Open and execute the IPYNB files
 
 ### 1)easy mix.ipynb
       Task: Data augmentation using the Easy Mixup technique on the HX (HateXplain) and Latenthate dataset.
+     
+
+      #### Augmentation Technique :
+      Easymixup is a data augmentation technique for textual data that is labeled into positive or negative sentences.
+      It being used on the data and RoBERTa-twitter-Sentiment model is being trained and checked for accuracy
   
 ### 2) entail.ipynb
        Task: Entailment technique on the HX HateXplain and Latent hate dataset.
