@@ -56,7 +56,9 @@ Open and execute the IPYNB files
 
 ### 3) Final Model: Easymix- Back translation (hx_easymix_back_transalation.ipynb):
 
-          Task: In this notebook Back translation is used to augment the data and generate sentences with same semantic meaning, thus the same labels are used. It is used for both HX and LH. RoBERTa-twitter-Sentiment model is trained using data augmented with both the augmentation techniques specified—accuracy: 71% which is 1% more than the accuracy achieved by the authors. 
+          Task: In this notebook Back translation is used to augment the data and generate sentences with same semantic meaning, 
+          thus the same labels are used. It is used for both HX and LH. RoBERTa-twitter-Sentiment model is trained using 
+          data augmented with both the augmentation techniques specified—accuracy: 71% which is 1% more than the accuracy achieved by the authors. 
           
 
 ### 4) HX- Robust.ipynb && Latent Robust.ipynb 
